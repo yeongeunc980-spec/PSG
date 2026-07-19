@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+.env
+.env.local
+.DS_Store
+*.jks
+*.keystore
+.gradle/
+build/
+DerivedData/
+.swiftpm/xcode
+*.xcodeproj
+*.xcworkspace
+*.dSYM.zip
+*.dSYM
+.env.*.local
