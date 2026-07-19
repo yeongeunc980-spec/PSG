@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "산소통 판매 관리",
+    "slug": "oxygen-tank-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTabletMode": false,
+      "bundleIdentifier": "com.oxygenapp.manager"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.oxygenapp.manager"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
